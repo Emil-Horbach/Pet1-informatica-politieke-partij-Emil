@@ -1,0 +1,69 @@
+body  {
+background-image: url(https://static.videezy.com/system/resources/thumbnails/000/021/365/original/Netherlands-Flag.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
+
+p {
+  text-align: center;
+font-family: sans-serif;
+
+}
+
+h1 {
+font-family: sans-serif;
+position: absolute;
+left: 130px;
+top:30px;
+}
+
+h2 {
+font-family: sans-serif;
+text-align: center;
+}
+
+.afbeelding {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+  attachment: fixed;
+}
+
+.maillink {
+font-family: sans-serif;
+}
+
+ul {
+font-family: sans-serif;
+list-style-position: inside;
+}
+
+#menu {
+  text-align: right;
+  font-family: sans-serif;
+}
+
+#menu li {
+  background-color:#d40001;
+  color: rgb(255, 223, 0);
+  border: 3px solid black;
+  border-radius: 10px;
+  display: inline;
+  padding:2px;
+}
+
+#menu a {
+  text-decoration: none;
+  color: rgb(255, 223, 0)
+}
+
+#menu li:hover {
+background-color: red;
+}
+
+table {
+font-family: sans-serif;
+border-color: black;
+}

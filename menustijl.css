@@ -1,0 +1,22 @@
+#menu {
+  text-align: right;
+  font-family: sans-serif;
+}
+
+#menu li {
+  background-color:#d40001;
+  color: rgb(255, 223, 0);
+  border: 3px solid black;
+  border-radius: 10px;
+  display: inline;
+  padding:2px;
+}
+
+#menu a {
+  text-decoration: none;
+  color: rgb(255, 223, 0)
+}
+
+#menu li:hover {
+background-color: red;
+}
